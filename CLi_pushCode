@@ -8,3 +8,7 @@ git remote add-url origin https://github.com/user_name/repo_name.git
 git remote set-url origin https://github.com/user_name/repo_name.git
 
 git push -u origin main
+
+
+// if file already exist you want to edit
+
