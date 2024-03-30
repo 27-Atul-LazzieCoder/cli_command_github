@@ -1,5 +1,5 @@
 git init 
-git add .                         //for all files to add to github
+git add .                         //for all files to add to github.............................................................
 git commit -m "initial commit"
 git branch -M main
 git remote add origin https://github.com/user_name/repo_name.git
@@ -10,5 +10,8 @@ git remote set-url origin https://github.com/user_name/repo_name.git
 git push -u origin main
 
 
-// if file already exist you want to edit
+// if file already exist you want to edit.............................................................................................
 
+git remote add origin https://github.com/27-Atul/AICTE-django-News_Aggregator.git
+git branch -M main
+git push -u origin main
